@@ -1,5 +1,5 @@
-enabled-modules
-modules/personal
+#enabled-modules
+#modules/personal
 
 # Emacs Ignores
 *~
@@ -10,3 +10,4 @@ modules/personal
 auto-save-list
 tramp
 .\#*
+nohup.out
